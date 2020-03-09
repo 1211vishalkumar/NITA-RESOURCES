@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69411956221",
+    "firebase_url": "https://nita-exams.firebaseio.com",
+    "project_id": "nita-exams",
+    "storage_bucket": "nita-exams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69411956221:android:c9f542c8b93415db842594",
+        "android_client_info": {
+          "package_name": "com.example.nitaexams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69411956221-dtl19s3mhk1tsu92o3k8ub0mhfqjm7l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nitaexams",
+            "certificate_hash": "5ced7f9a79469d9bdeefb78944f5627792ca4811"
+          }
+        },
+        {
+          "client_id": "69411956221-l5v3pt6uh6pi2emm12p2kqfi14ssc30m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-B3h0_YlAfHEl6Tm-mYNtXtbD22CQwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69411956221-l5v3pt6uh6pi2emm12p2kqfi14ssc30m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
